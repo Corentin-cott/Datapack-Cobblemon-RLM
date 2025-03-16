@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:omeganium",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:meganium",
+      "model": "cobblemon:omeganium.geo",
+      "texture": "cobblemon:textures/pokemon/omeganium/omeganium.png",
+      "layers": []
+    },
+    {
+      "aspects": [ "shiny" ],
+      "texture": "cobblemon:textures/pokemon/omeganium/omeganium_shiny.png"
+    }
+  ]
+}
