@@ -2,7 +2,7 @@
 name: Add fakemon "X" from "Y"
 about: Add this pokémon to the packs
 title: Add fakemon "X" from "Y"
-labels: datapack, enhancement, fakemon, ressourcepack
+labels: "\U0001F9A6 datapack, \U0001F9A6 ressourcepack, :+1: enhancement"
 assignees: Corentin-cott
 
 ---

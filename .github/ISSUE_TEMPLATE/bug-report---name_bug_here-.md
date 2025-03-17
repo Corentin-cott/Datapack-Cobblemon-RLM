@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: 'Bug report: "NAME_BUG_HERE"'
 about: Create a report to help us improve
 title: Bug report
 labels: bug
@@ -11,7 +11,7 @@ assignees: Corentin-cott
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior (exemple):
+Steps to reproduce the behavior:
 1. Spawn pokemon X
 2. Start a battle with Y
 3. Use move Z
