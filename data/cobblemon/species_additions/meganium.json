@@ -6,6 +6,17 @@
       "name": "rlm",
       "primaryType": "grass",
       "secondaryType": "steel",
+      "baseStats": {
+        "hp": 100,
+        "attack": 110,
+        "defence": 100,
+        "special_attack": 55,
+        "special_defence": 100,
+        "speed": 70
+      },
+      "evYield": {
+        "attack": 3
+      },
       "maleRatio": 0.25,
       "height": 18,
       "weight": 3000,
@@ -28,7 +39,7 @@
         "entries": [
           {
             "item": "minecraft:iron_ingot",
-            "quantityRange": "1-2",
+            "quantityRange": "1-64",
             "percentage": 66
           }
         ]
