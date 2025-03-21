@@ -6,14 +6,16 @@ Cobblemon RLM is a datapack that adds Fakemon from another project of mine. It c
 
 ### List of Fakemon added :
 - Meganium RLM-Form
-<br>  *- Cobblemon Model & Texture by : **placeholder***
+<br>  *- Default Cobblemon Model & Texture by : **placeholder***
+<br>  *- Design and modifications by : [TheAzertor](https://github.com/Corentin-cott)*
+- Empoleon RLM-Form
+<br>  *- Default Cobblemon Model & Texture by : **placeholder***
 <br>  *- Design and modifications by : [TheAzertor](https://github.com/Corentin-cott)*
 - Fammiko
 <br>  *- Plusle (Used as base) Cobblemon Model & Texture by : **placeholder***
 <br>  *- Design and modifications by : [TheAzertor](https://github.com/Corentin-cott)*
 
 ### List of Fakemon planned to be added :
-- Empoleon RLM-Form
 - Delphox RLM-Form
 - Mareep
 - Flaafy
