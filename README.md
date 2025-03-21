@@ -17,9 +17,9 @@ Cobblemon RLM is a datapack that adds Fakemon from another project of mine. It c
 
 ### List of Fakemon planned to be added :
 - Delphox RLM-Form
-- Mareep
-- Flaafy
-- Ampharos
+- Mareep RLM-Form
+- Flaafy RLM-Form
+- Ampharos RLM-Form
 
 ## 🦦 How to install it ?
 
