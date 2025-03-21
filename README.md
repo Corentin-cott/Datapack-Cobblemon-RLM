@@ -23,4 +23,4 @@ Cobblemon RLM is a datapack that adds Fakemon from another project of mine. It c
 
 ## 🦦 How to install it ?
 
-You just need this pack both in your ressourcepacks folder and your world's dataoack folder.
+You just need this pack both in your ressourcepacks folder and your world's datapack folder.
